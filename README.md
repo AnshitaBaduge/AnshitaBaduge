@@ -51,17 +51,10 @@ Computer Engineering undergraduate focused on building backend and AI systems. c
   <img src="https://streak-stats.demolab.com?user=AnshitaBaduge&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="60%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshitaBaduge&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshitaBaduge&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" width="40%"/>
-</p>
-
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Anshita-Baduge"><img src="https://img.shields.io/badge/-linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:anshita.baduge158@gmail.com"><img src="https://img.shields.io/badge/-email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/AnshitaBaduge"><img src="https://img.shields.io/badge/-github-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <sub>open to opportunities in ai/ml engineering — <a href="mailto:anshita.baduge158@gmail.com">let's talk</a></sub>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58A6FF&height=100&section=footer)
