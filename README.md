@@ -5,7 +5,7 @@
 <h2 align="center">About Me:</h2>
 
 <p align="center">
-Computer Engineering undergraduate focused on building backend and AI systems. cpp is my primary language, but I'm language-agnostic and comfortable working across stacks, including Python for AI/ML work. I care about clean architecture, clear APIs, databases, system reliability, and building LLM-powered systems that hold up in production. I continuously sharpen my fundamentals through DSA and hands-on projects. Currently open to software engineering and AI/ML engineering internships and early-career opportunities where I can contribute to meaningful systems and grow alongside strong engineering teams.
+Computer Engineering undergraduate focused on building backend and AI systems. C++ is my primary language, but I'm language-agnostic and comfortable working across stacks, including Python for AI/ML work. I care about clean architecture, clear APIs, databases, system reliability, and building LLM-powered systems that hold up in production. I continuously sharpen my fundamentals through DSA and hands-on projects. Currently open to software engineering and AI/ML engineering internships and early-career opportunities where I can contribute to meaningful systems and grow alongside strong engineering teams.
 </p>
 
 ---
