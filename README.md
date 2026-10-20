@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58A6FF&height=200&section=header&text=anshita%20baduge&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58A6FF&height=200&section=header&text=Anshita%20Baduge&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
 
 ---
 
@@ -43,6 +43,7 @@ Computer Engineering undergraduate focused on building backend and AI systems. C
   <img src="https://img.shields.io/badge/power%20bi-F2C811?style=flat&logo=power-bi&logoColor=black"/>
 </p>
 
+<!--
 ---
 
 <h2 align="center">GitHub Stats</h2>
@@ -52,6 +53,7 @@ Computer Engineering undergraduate focused on building backend and AI systems. C
 </p>
 
 ---
+-->
 
 <p align="center">
   <sub>open to opportunities in ai/ml engineering — <a href="mailto:anshita.baduge158@gmail.com">let's talk</a></sub>
