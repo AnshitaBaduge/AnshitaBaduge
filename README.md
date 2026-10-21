@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58A6FF&height=200&section=header&text=Anshita%20Baduge&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
+<p align="center">
+  <img src="./anshitabaduge.gif" alt="Pixel Art Header" width="100%">
+</p>
 
 ---
 
