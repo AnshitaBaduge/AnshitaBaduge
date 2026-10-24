@@ -46,13 +46,13 @@ Computer Engineering undergraduate focused on building backend and AI systems. C
 </p>
 
 ---
-
+<!--
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AnshitaBaduge&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="60%"/>
 </p>
-
+-->
 ---
 
 <p align="center">
