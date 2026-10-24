@@ -46,11 +46,30 @@ Computer Engineering undergraduate focused on building backend and AI systems. C
 </p>
 
 ---
-
+<!--
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AnshitaBaduge&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="60%"/>
+</p>
+-->
+
+<h2 align="center"> GitHub Analytics</h2>
+<p align="center">
+  <i>Consistency. Code. Continuous improvement.</i>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnshitaBaduge&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshitaBaduge&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=AnshitaBaduge&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <sub> Metrics reflect the activity and repositories visible to the respective services.</sub>
 </p>
 
 ---
